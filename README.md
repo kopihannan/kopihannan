@@ -4,11 +4,11 @@
 ## MERN Stack Developer
 
 I love coding, I always want to do something new, and from there comes the world of programming. I am a MERN Stack Developer who has worked with clients in all stages of development. My specialization is building websites and web apps responsive to users' needs and working great on all devices.
-I am responsible for creating and developing exciting graphics and visuals for client websites that make their pages beautiful. Apart from excellent programming and creativity, I rely on extensive knowledge of HTML, CSS, Javascript, React js, and node js  MongoDB. I have strong analytical skills which I regularly exercise through heuristic testing and user interface monitoring.
+I am responsible for creating and developing exciting graphics and visuals for client websites that make their pages beautiful. Apart from excellent programming and creativity, I rely on extensive knowledge of HTML, CSS, Javascript,typescript, next js,redux,React js, and node js  MongoDB. I have strong analytical skills which I regularly exercise through heuristic testing and user interface monitoring. 
 My strong ability to create visually stunning web pages and interfaces makes me a valuable team member. I also possess strong interpersonal and social communication skills and can easily communicate with colleagues and clients to achieve desired web page results. I have a strong detail focus and excellent time management skills, which allow for quick completion of website projects I am sure you will be impressed with the skills I have to offer as a MERN stack web developer I hope to meet with you in person soon to discuss my potential candidacy and what I can offer.
 
 My Expertise:
-JavaScript, React js, Next js, Redux, React-router, Node js, MongoDB, Mongoose, Express js, Html5, Css3, Bootstrap, React Bootstrap, Tailwind CSS,
+JavaScript, React js,typescript, Next js, Redux, React-router, Node js, MongoDB, Mongoose, Express js, Html5, Css3, Bootstrap, React Bootstrap, Tailwind CSS,
 Firebase, Netlify, Vercel, Chrome Dev tools, Vs Code
 
 ✉ kopihannan3@gmail.com
