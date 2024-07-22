@@ -12,7 +12,6 @@ JavaScript, React js,typescript, Next js, Redux, React-router, Node js, MongoDB,
 Firebase, Netlify, Vercel, Chrome Dev tools, Vs Code
 
 ✉ kopihannan3@gmail.com
-📞 +8801405758566
 
 Skills: JAVASCRIPT/ REACT/ REDUX/NEXT JS, REACT ROUTER/ NODE JS/ EXPRESS JS/ MONGODB/ MONGOOSE/ HTML/ CSS/ BOOTSTRAP/ TAILWIND CSS/ REACT BOOTSTRAP/ 
 
